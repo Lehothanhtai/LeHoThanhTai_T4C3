@@ -41,6 +41,6 @@ Dưới đây là những công nghệ và ngôn ngữ lập trình mà tôi đ�
 - Ngôn ngữ lập trình: C#, Java, Javascript
 - Các công cụ khác: Git, Figma, SQL Server, MySQL, MongoDB, Android Studio, StarUML, NetBean
 
-🚀 Lời kết
+# Lời kết
 
 Tôi tự hào về những thành quả mà nhóm đã đạt được và luôn mong muốn mở rộng kiến thức cũng như kỹ năng của bản thân. Với sự hợp tác chặt chẽ, tôi tin rằng chúng tôi có thể tạo ra những sản phẩm đáp ứng nhu cầu người dùng và mang lại trải nghiệm tuyệt vời. Rất mong được kết nối và hợp tác với những người cùng đam mê trong tương lai. Cảm ơn bạn đã đọc!
